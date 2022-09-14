@@ -1,22 +1,32 @@
-### Hello ~~World~~, I'm Fabiano 👋
+<h1 align="center">Hello World!!! I'm Fabiano 👋</h1>
 
-<!--
-**fabianogarcia00/fabianogarcia00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <h3 align="center">Here are some fun facts about me:
+ 
+🤓 I recently completed a ***full-stack web development*** course at Le Wagon 🤓
 
-- 🤓 I’m recently completed a ***full-stack web development*** course at Le Wagon
-![StandingOvationGIF](https://user-images.githubusercontent.com/107425143/190028189-a8108df5-e51b-4a35-bd25-ea9f5f82412a.gif)
+<img src="https://user-images.githubusercontent.com/107425143/190029777-b1670a2f-914b-4c42-a405-7e634bfa450f.gif" width="200" height="200">
 
-- 👨‍💻 I’m currently looking for a job opportunity in the tech field
-![JobHuntApplyingForJobsGIF](https://user-images.githubusercontent.com/107425143/190028465-0309e304-5c49-4d21-84c5-6e846f7d997a.gif)
+👨‍💻 I’m currently looking for a job opportunity in the tech field 👨‍💻
 
-- 💪 I’m looking to collaborate on the backend of projects in ruby 
-![HelpMeHelpYouHelpGIF](https://user-images.githubusercontent.com/107425143/190028675-61830193-d774-44de-8bc4-1aeccfec114e.gif)
+<img src="https://user-images.githubusercontent.com/107425143/190028465-0309e304-5c49-4d21-84c5-6e846f7d997a.gif" width="200" height="200">
 
-- 💬 Ask me about anything... I probably don't know the answer but I'll try to help you anyway
-![FriendsGIF](https://user-images.githubusercontent.com/107425143/190028765-ad1f8005-8c2d-4f8f-86f3-d885d59a4aed.gif)
+💪 I’m looking to collaborate on the backend of projects in Ruby 💪
 
-- 📫 How to reach me: fabianogarcia000@gmail.com
-![MichaelScottGIF](https://user-images.githubusercontent.com/107425143/190029041-d2f347e1-40e6-4a2c-9c9a-22cb7647e985.gif)
--->
+<img src="https://user-images.githubusercontent.com/107425143/190028675-61830193-d774-44de-8bc4-1aeccfec114e.gif" width="200" height="200">
+
+💬 Ask me about anything... I probably don't know the answer but I'll try to help you anyway 😉
+
+<img src="https://user-images.githubusercontent.com/107425143/190028765-ad1f8005-8c2d-4f8f-86f3-d885d59a4aed.gif" width="200" height="200">
+
+📫 How to reach me: fabianogarcia000@gmail.com 📧
+
+😁 If you don't have fun with what you do, look for something new! 🚀</h3>
+
+<h2>My Skills</h2>
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
