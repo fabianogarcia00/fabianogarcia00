@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!!! I'm Fabiano 👋</h1>
+<h1 align="center">👋 Hello World!🌎 I'm Fabiano 👨‍💻</h1>
 
 
  <h3 align="center">Here are some fun facts about me:
